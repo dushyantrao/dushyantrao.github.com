@@ -1,10 +1,10 @@
 # Site settings
-name: Today I Learned
+name: Dushyant Rao
 title: Developer
 email: dushyant.rao@gmail.com
 description: "BITSian, Eagle, Coder, Aspiring Chef, Sailor, Telugu + Sindhi, Foodie"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://dushyantrao.github.io"
 
 # Build settings
 markdown: kramdown
