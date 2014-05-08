@@ -1,5 +1,4 @@
-dushyantrao.github.com
+Blog : Today I Learned
 ======================
-Blog.
 
 Collection of things I grok on a day to day basis.
