@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "why"
+date:   2014-05-11 17:50:10
+categories: thoughts
+---
+
+This somehow, very serendipitously, happens to feel like a continuation of the previous post and I guess that fine although they are unrelated. Or are they?
+
+Anyway, yesterday my friend and I were having this rather involved discussion. After beating around the bush a bit we got to something interesting, he said, "A single consciousness is too narrow a perspective to view the whole world."
+
+He went on to tell me to look at life from different perpectives, to question my judgement from a 3rd persons perspective, to always ask "why?" at least three times before coming to a conclusion. The subconscious will stop you from changing but given enough breath and when asked the right questions, you will feel yourself change for the better and make better decisions.
+
+Today I learned ... well I'd like to quote him on this because I cannot say it any better, "Good people will make you understand things about yourself and facilitate this change, smoother, faster. Those are how you define good from bad relations. Those which allow you maximum leeway for change with most comfort. Those which only allow change will get you bewildered. Those with all comfort will become boring."
+
+PS - I really want to blog about my recent groking on distributed systems but maybe next time.
+---
