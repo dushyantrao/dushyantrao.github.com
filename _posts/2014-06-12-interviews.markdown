@@ -77,7 +77,9 @@ I have picked up AngularJS, Scala, Ruby, Golang, Objective-C and a bit of Python
 To all the people reading this, please read these wise words of [Alex MacCaw](http://blog.alexmaccaw.com/the-state-of-hiring). I hope it does you some good.
 
 Also, this tweet caught my eye on [Andy Lindeman's](http://www.andylindeman.com/about.html) page. I'll leave it at that.
-<blockquote class="twitter-tweet" lang="en"><p>The resume format is so awful. Resumes should be: What I&#39;m interested in, what I&#39;m good at, and why I&#39;m good at it.</p>&mdash; Chris Wanstrath (@defunkt) <a href="https://twitter.com/defunkt/statuses/183409973341065216">March 24, 2012</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+>The resume format is so awful. Resumes should be: What I'm interested in, what I'm good at, and why I'm good at it.
+><cite>Chris Wanstrath (@defunkt)</cite> <a href="https://twitter.com/defunkt/statuses/183409973341065216">March 24, 2012</a>
+
 
 PS- Thank you [Prakhar](http://www.prakhar.me) for forcing me to write this post despite my reservations.
